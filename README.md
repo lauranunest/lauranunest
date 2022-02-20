@@ -1,4 +1,4 @@
-## Olá, eu sou a Laura Nunes <img alt="Laura-pic" height="50" style="border-radius:100px;" src="https://webstockreview.net/images/hello-clipart-animation-17.gif"> 
+## Olá, eu sou a Laura Nunes <img alt="gif-cat" height="30" style="border-radius:10px;" src="https://webstockreview.net/images/hello-clipart-animation-17.gif"> 
 
 
 <div align="center">
