@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá, eu sou a Laura Nunes <img alt="Laura-pic" height="50" style="border-radius:100px;" src="https://webstockreview.net/images/hello-clipart-animation-17.gif"> 
 
-<!--
-**lauranunest/lauranunest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+      <img align="right" alt="Laura-pic" height="150" style="border-radius:100px;" src="https://share-cdn.picrew.me/shareImg/org/202202/599056_R8AV3XvY.png"> 
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/lauranunest">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lauranunest&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauranunest&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+      <img align="right" alt="Laura-pic" height="150" style="border-radius:100px;" src="https://share-cdn.picrew.me/shareImg/org/202202/599056_R8AV3XvY.png">
+    
+  </div>
