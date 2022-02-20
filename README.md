@@ -1,8 +1,5 @@
 ## Olá, eu sou a Laura Nunes <img alt="Laura-pic" height="50" style="border-radius:100px;" src="https://webstockreview.net/images/hello-clipart-animation-17.gif"> 
 
-<div>
-      <img align="right" alt="Laura-pic" height="150" style="border-radius:100px;" src="https://share-cdn.picrew.me/shareImg/org/202202/599056_R8AV3XvY.png"> 
-</div>
 
 <div align="center">
   <a href="https://github.com/lauranunest">
@@ -10,7 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauranunest&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  <div>
-      <img align="right" alt="Laura-pic" height="150" style="border-radius:100px;" src="https://share-cdn.picrew.me/shareImg/org/202202/599056_R8AV3XvY.png">
+  <div align="center">
+      <img  alt="Laura-pic" height="150" style="border-radius:100px;" src="https://share-cdn.picrew.me/shareImg/org/202202/599056_R8AV3XvY.png">
     
   </div>
