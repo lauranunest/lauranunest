@@ -6,7 +6,7 @@
  <br/> 🎓  &nbsp; Graduanda em Engenharia Elétrica na UNINOVE (Universidade Nove de Julho)
  <br/> :computer: &nbsp; Arriscando alguns desenvolvimentos em Java e C#
  <br/> 💕  &nbsp; Apaixonada por livros, séries e filmes, e principalmente, tecnologia
- <br/> 📍  &nbsp;&nbsp;&nbsp; São Paulo - SP </p>
+ <br/> 📍  &nbsp; São Paulo - SP </p>
 
 
 <details>
