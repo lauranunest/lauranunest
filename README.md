@@ -2,7 +2,7 @@
   <img alt="gif-cat" height="30" style="border-radius:10px;" src="https://webstockreview.net/images/hello-clipart-animation-17.gif"></h3>  
   <img align="right" alt="Laura-pic" height="150" style="border-radius:100px;" src="https://share-cdn.picrew.me/shareImg/org/202202/599056_R8AV3XvY.png">
 
- <p align="justify"> 🐝  &nbsp; Estagiária de arquitetura e engenharia de Cloud na IBM
+ <p align="justify"> 🐝  &nbsp; Dev Cloud na IBM
  <br/> 🎓  &nbsp; Graduanda em Engenharia Elétrica na UNINOVE (Universidade Nove de Julho)
  <br/> :computer: &nbsp; Arriscando alguns desenvolvimentos em Java e C#
  <br/> 💕  &nbsp; Apaixonada por livros, séries e filmes, e principalmente, tecnologia
