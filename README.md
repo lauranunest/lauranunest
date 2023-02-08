@@ -36,4 +36,4 @@ Habilidades](https://skillicons.dev/icons?i=arduino,azure,cs,docker,dotnet,eclip
   
 [![Minhas Habilidades](https://skillicons.dev/icons?i=vscode,html,idea,js,maven,redis,github)](https://skillicons.dev)
 
-![snake](https://github.com/lauranunest/lauranunest/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/lauranunest/lauranunest/blob/output/github-contribution-grid-snake.svg)
