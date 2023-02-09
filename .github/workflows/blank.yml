@@ -35,10 +35,9 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v2
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
           github_user_name: lauranunest
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
