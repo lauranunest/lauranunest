@@ -5,7 +5,7 @@
 <img align="right" alt="Cat-pic" height="200" style="border-radius:100px;"
     src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
-<p align="justify"> 🐝 &nbsp; Desenvolvedora Full Stack | Focada em .NET e Angular
+<p align="justify"> 🐝 &nbsp; Desenvolvedora Full Stack | .NET e Angular
     <br /> 🎓 &nbsp; Graduanda em Tecnologia da Informação
     <br /> :computer: &nbsp; Com sólida formação em Engenharia Elétrica e experiência em desenvolvimento de software
     <br /> 💕 &nbsp; Apaixonada por livros, séries, filmes e, principalmente, tecnologia
